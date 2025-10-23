@@ -1,0 +1,6 @@
+[package]
+name = "module3_struct_io_bookcatalog_assignment"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
